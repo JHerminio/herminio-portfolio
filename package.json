@@ -1,0 +1,20 @@
+{
+  "name": "jbherminio.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "scripts": {
+  "deploy": "gh-pages -d build" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBHerminio/jbherminio.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBHerminio/jbherminio.github.io/issues"
+  },
+  "homepage": "https://github.com/JBHerminio/jbherminio.github.io/home.html"
+}
