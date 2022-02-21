@@ -1,24 +1,16 @@
 {
-  "name": "jaysonherminio-portfolio.io",
+  "name": "jbh.github.io",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/JHerminio/jaysonherminio-portfolio.io/home.html",
+  "homepage": "https://github.com/JHerminio/herminio-portfolio.git/home.html",
   "main": "home.js",
-  "dependencies": {},
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JHerminio/jaysonherminio-portfolio.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JHerminio/jaysonherminio-portfolio.io/issues"
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
