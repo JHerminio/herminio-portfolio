@@ -495,7 +495,8 @@ section .title::after{
 .contact .column .media p{
     color: #4267B2;
 }
-.contact .column .media p1{
+
+/* .contact .column .media p1{
     color: #ff0000;
 }
 .contact .column .media p2{
@@ -503,7 +504,8 @@ section .title::after{
 }
 .contact .column .media p3{
     color: #E1306C;
-}
+} */
+
 .wrapper .button{
     display: inline-block;
     height: 60px;
