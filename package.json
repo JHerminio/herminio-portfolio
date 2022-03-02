@@ -2,7 +2,7 @@
   "name": "jbh.github.io",
   "version": "1.0.0",
   "description": "Please click here and see my [\"Portfolio\"](https://jherminio.github.io/herminio-portfolio/home.html)",
-  "homepage": "https://herminio-portfolio.git",
+  "homepage": "https://github.com/JHerminio/herminio-portfolio.git/home.html",
   "main": "home.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
