@@ -165,7 +165,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/Graduation.JPG") no-repeat center;
+    align-items: center;
+    justify-content: center;
+    background: url("images/bunner1.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
